@@ -1,0 +1,26 @@
+{
+  "name": "trabalhojs",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[A\u001b[B\u001b[BSistema de controle de pedidos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Sergio",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^7.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "sequelize-cli": "^6.3.0"
+  }
+}
+
+
+
+
+
